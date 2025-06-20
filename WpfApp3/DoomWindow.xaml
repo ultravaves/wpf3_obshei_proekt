@@ -1,0 +1,12 @@
+<Window x:Class="WpfApp3.DoomWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pixel Doom"
+        Height="450"
+        Width="800"
+        Background="Black"
+        WindowStartupLocation="CenterScreen"
+        Icon="Resources/ImagesDoom/doom_eternal_icon_245652.ico"
+        Loaded="Window_Loaded">
+    <Canvas x:Name="GameCanvas" Background="DarkGray"/>
+</Window>

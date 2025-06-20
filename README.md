@@ -1,2 +1,1 @@
-# wpf3_obshei_proekt
-da
+# duolin2
